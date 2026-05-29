@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/ivan-bunin/the-village/isabel-f-hapgood</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-05-29T20:27:29Z</dc:date>
+		<meta property="dcterms:modified">2026-05-29T20:27:29Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,16 +44,16 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Two brothers pass their lives in rural Russia.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Tikhon and Kuzma Krasoff, brothers from a long line of petty criminals, manage to work together long enough to start a business selling sundries from a roving cart, but a dispute over the division of profits forces them apart. Tikhon is content to stay near the old family village in the south-west of Russia and grow his business, but Kuzma has bigger dreams.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Village&lt;/i&gt; was &lt;a href="https://standardebooks.org/ebooks/ivan-bunin"&gt;Ivan Bunin’s&lt;/a&gt; first full novel, and portrayed the Russian peasantry in a very different light to the previously idealised group. While there is a physical village in the novel, the village of the title is a reference to Russian society: Bunin said that “my novel depicts the life of rural Russia; along with one particular village it is concerned with life of Russia as a whole.” The violence of everyday life (especially with the character nicknamed “The Bride”) is stark and unrelenting; the characters somewhere between idiotic and trapped by their situations. Maxim Gorky declared that the novel posed the question “is Russia to be or not to be?”&lt;/p&gt;
-			&lt;p&gt;Bunin’s writing in &lt;i&gt;The Village&lt;/i&gt; also took a different direction to that of his earlier &lt;a href="https://standardebooks.org/ebooks/ivan-bunin/short-fiction/various-translators"&gt;short fiction&lt;/a&gt;. Previously praised for his open prose, &lt;i&gt;The Village&lt;/i&gt; is dense to the point that critics of the time flagged it as problematic, and Bunin was never completely satisfied with his work spending many hours rewriting it after its initial publication.&lt;/p&gt;
-			&lt;p&gt;This edition is based on a translation to English first published in 1923, thirteen years after its first Russian publication.&lt;/p&gt;
+			&lt;p&gt;Tikhon and Kuzma Krasoff, brothers from a long line of petty criminals, manage to work together long enough to start a business selling sundries from a roving cart, but a dispute over the division of profits forces them apart. Tikhon is content to stay near the old family village in the southwest of Russia and grow his business, but Kuzma has bigger dreams.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Village&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/ivan-bunin"&gt;Ivan Bunin’s&lt;/a&gt; first full novel, and portrays the Russian peasantry in a very different light to how they had previously been idealized. While there’s a physical village in the novel, the village of the title is a reference to Russian society: Bunin said that “my novel depicts the life of rural Russia; along with one particular village it is concerned with life of Russia as a whole.” The violence of everyday life (especially with the character nicknamed “The Bride”) is stark and unrelenting, the characters somewhere between idiotic and trapped by their situations. Maxim Gorky declared that the novel poses the question “is Russia to be or not to be?”&lt;/p&gt;
+			&lt;p&gt;Bunin’s writing in &lt;i&gt;The Village&lt;/i&gt; also takes a different direction to that of his earlier &lt;a href="https://standardebooks.org/ebooks/ivan-bunin/short-fiction/various-translators"&gt;short fiction&lt;/a&gt;. While he had previously been praised for his open prose, &lt;i&gt;The Village&lt;/i&gt; is dense to the point that contemporary critics considered it problematic. Bunin was never completely satisfied with the novel, spending many hours rewriting it after its initial publication.&lt;/p&gt;
+			&lt;p&gt;This edition is based on a translation to English first published in 1923, thirteen years after the first Russian edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/59981</dc:source>
 		<dc:source>https://archive.org/details/villagetranslati00buniuoft</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">69169</meta>
+		<meta property="se:reading-ease.flesch">70.43</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Village_(Bunin_novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ivan-bunin_the-village_isabel-f-hapgood</meta>
 		<dc:creator id="author">Ivan Bunin</dc:creator>
@@ -96,6 +96,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
