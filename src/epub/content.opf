@@ -30,16 +30,16 @@
 		<dc:title id="title">The Village</dc:title>
 		<meta property="file-as" refines="#title">Village, The</meta>
 		<dc:subject id="subject-1">Russia -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-1">LCHS</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008116767</meta>
 		<dc:subject id="subject-2">Brothers -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-2">LCHS</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2007101952</meta>
 		<dc:subject id="subject-3">Peasants -- Russia -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-3">LCHS</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<dc:subject id="subject-4">Russia -- History -- Revolution, 1905-1907 -- Fiction</dc:subject>
-		<meta property="authority" refines="#subject-4">LCHS</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Two brothers pass their lives in rural Russia.</dc:description>
