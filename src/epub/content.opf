@@ -43,7 +43,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>Two brothers pass their lives in rural Russia.</dc:abstract>
+		<meta property="schema:abstract">Two brothers pass their lives in rural Russia.</meta>
 		<dc:description>
 			&lt;p&gt;Tikhon and Kuzma Krasoff, brothers from a long line of petty criminals, manage to work together long enough to start a business selling sundries from a roving cart, but a dispute over the division of profits forces them apart. Tikhon is content to stay near the old family village in the southwest of Russia and grow his business, but Kuzma has bigger dreams.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Village&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/ivan-bunin"&gt;Ivan Bunin’s&lt;/a&gt; first full novel, and portrays the Russian peasantry in a very different light to how they had previously been idealized. While there’s a physical village in the novel, the village of the title is a reference to Russian society: Bunin said that “my novel depicts the life of rural Russia; along with one particular village it is concerned with life of Russia as a whole.” The violence of everyday life (especially with the character nicknamed “The Bride”) is stark and unrelenting, the characters somewhere between idiotic and trapped by their situations. Maxim Gorky declared that the novel poses the question “is Russia to be or not to be?”&lt;/p&gt;
