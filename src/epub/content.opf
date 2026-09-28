@@ -61,7 +61,7 @@
 		<link href="https://github.com/standardebooks/ivan-bunin_the-village_isabel-f-hapgood" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Ivan Bunin</dc:creator>
 		<meta property="file-as" refines="#author">Bunin, Ivan</meta>
-		<meta property="alternate-script" refines="#author" xml:lang="ru">Ива́н Алексе́евич Бу́нин</meta>
+		<meta property="alternate-script" refines="#author">Ива́н Алексе́евич Бу́нин</meta>
 		<meta property="schema:alternateName" refines="#author">Ivan Alekseyevich Bunin</meta>
 		<link href="https://en.wikipedia.org/wiki/Ivan_Bunin" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80028431.html" refines="#author" rel="schema:sameAs"/>
